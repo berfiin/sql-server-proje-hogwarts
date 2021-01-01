@@ -1,9 +1,14 @@
-1- Tabloların tasarlaması
+1- Tabloların tasarlaması (X)
 1.1- Senaryo belirleme 
-2- Tabloların sql server a aktarılması 
-3- Diagram oluşturulup ilişkilerin yapılması
-4- Veri seti bulma ve temizleme
-5- Tablolara veri ekleme
-6- Fonksiyonların, prosedürlerin ve viewlerin yazılması 
+2- Tabloların sql server a aktarılması (X) 
+3- Diagram oluşturulup ilişkilerin yapılması (X)
+4- Veri seti bulma ve temizleme 
+5- Tablolara veri ekleme 
+6- Fonksiyonların, prosedürlerin ve viewlerin yazılması
+ 6.1- Oda müsaitlik durum kontrolü yapan fonsksiyon
+ 6.2- Makisumum oda kapasitesine ulaşıldığını bildiren fonsksiyon
+ 6.3- Rezervasyon yapacak kişinin TC no kontrolü yapan fonksiyon
+ 6.4- Rezervasyon yap fonksiyonu 
+ 6.5- 
 7- İndex oluşturma
 8- Yedek alınma 
