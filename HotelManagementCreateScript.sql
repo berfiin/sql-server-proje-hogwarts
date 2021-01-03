@@ -13,7 +13,7 @@ CREATE TABLE [Service]
 	Breakfast BIT NOT NULL,
 	Lunch BIT NOT NULL,
 	Free_Car_Park BIT NOT NULL,
-	Season BIT NOT NULL,
+	Season NVARCHAR(50) NOT NULL,
 	Wellness BIT NOT NULL,
 	Pet_Allow BIT NOT NULL,
 	Added_Date DATETIME NOT NULL DEFAULT GETDATE(),
