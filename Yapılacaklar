@@ -1,14 +1,23 @@
 1- Tabloların tasarlaması (X)
-1.1- Senaryo belirleme 
+1.1- Senaryo belirleme (X)
 2- Tabloların sql server a aktarılması (X) 
 3- Diagram oluşturulup ilişkilerin yapılması (X)
-4- Veri seti bulma ve temizleme 
-5- Tablolara veri ekleme 
+4- Veri seti bulma ve temizleme (X)
+5- Tablolara veri ekleme (X)
 6- Fonksiyonların, prosedürlerin ve viewlerin yazılması
- 6.1- Oda müsaitlik durum kontrolü yapan fonsksiyon
- 6.2- Makisumum oda kapasitesine ulaşıldığını bildiren fonsksiyon
- 6.3- Rezervasyon yapacak kişinin TC no kontrolü yapan fonksiyon
- 6.4- Rezervasyon yap fonksiyonu 
- 6.5- 
+  6.1-Müşteri ekleme fonksiyonu -> insert customer -> müşteri silindiğinde onunla ilgili herşeyi silen trigger
+  6.2-Rezervasyon yap stored proc.->insert booking
+  6.3-Ödeme yap fonksiyonu ->insert payment
+  6.4-Hatırlatıcı ekle proc. ->insert reminder tarih yaklaşında mail at 
+  6.5-> Mail gönder 
+  6.6-> Müşteri yaş kontrolü stored proc.
+  6.7- Oda müsaitlik durum kontrolü yapan fonsksiyon
+  6.8- Makisumum oda kapasitesine ulaşıldığını bildiren fonsksiyon
+  6.9- Rezervasyon yapacak kişinin TC no kontrolü yapan fonksiyon
+  6.10- View -> Evcil hayvana izin veren oteller 
+  6.11- Maaşı 3 k dan fazla olan personelin hangi dept. ve telefonu View
+  6.12- En çok rezervasyon yapılan otel ve oda tipi stored proc. 
+  6.13- En pahalı ve en ucuz otel fonksiyon
+  6.14- Eğer oda fiyatında bir güncelleme olursa bir trigger booking de ki payment da güncellensin
 7- İndex oluşturma
 8- Yedek alınma 
