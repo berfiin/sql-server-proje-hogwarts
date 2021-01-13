@@ -4,20 +4,20 @@
 3- Diagram oluşturulup ilişkilerin yapılması (X)
 4- Veri seti bulma ve temizleme (X)
 5- Tablolara veri ekleme (X)
-6- Fonksiyonların, prosedürlerin ve viewlerin yazılması
+6- Fonksiyonların, prosedürlerin ve viewlerin yazılması (X)
 
-  6.1-Müşteri ekleme fonksiyonu -> insert customer -> müşteri silindiğinde onunla ilgili herşeyi silen trigger (Berfin)
-  6.2-Ödeme yap fonksiyonu ->insert payment (Berfin)
-  6.3-Rezervasyon yap stored proc.->insert booking (Berfin)
+  6.1-Müşteri ekleme fonksiyonu -> insert customer -> müşteri silindiğinde onunla ilgili herşeyi silen trigger (Berfin) (X)
+  6.2-Ödeme yap fonksiyonu ->insert payment (Berfin) (X)
+  6.3-Rezervasyon yap stored proc.->insert booking (Berfin) (X)
 
   
-  6.4-Hatırlatıcı ekle proc. ->insert reminder tarih yaklaşında mail at (Cumhurcan)
-  6.5-> Mail gönder (Cumhurcan)
+  6.4-Hatırlatıcı ekle proc. ->insert reminder tarih yaklaşında mail at (Cumhurcan)(X)
+  6.5-> Mail gönder (Cumhurcan) (X)
   6.6-> Müşteri yaş kontrolü stored proc. (Cumhurcan)
   
-  6.7- Oda müsaitlik durum kontrolü yapan fonsksiyon (Mehmet)
-  6.8- Makisumum oda kapasitesine ulaşıldığını bildiren fonsksiyon (Mehmet)
-  6.9- Rezervasyon yapacak kişinin TC no kontrolü yapan fonksiyon (Mehmet)
+  6.7- Oda müsaitlik durum kontrolü yapan fonsksiyon (Mehmet) (X)
+  6.8- Makisumum oda kapasitesine ulaşıldığını bildiren fonsksiyon (Mehmet) (X)
+  6.9- Rezervasyon yapacak kişinin TC no kontrolü yapan fonksiyon (Mehmet) (X)
   
   6.10- View -> Evcil hayvana izin veren oteller (Tuğrul)
   6.11- Maaşı 3 k dan fazla olan personelin hangi dept. ve telefonu View (Tuğrul)
