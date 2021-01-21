@@ -24,13 +24,26 @@
   6.12- En çok rezervasyon yapılan otel ve oda tipi stored proc. (Tuğrul) (X)
   
   6.13- En pahalı ve en ucuz otel fonksiyon(X)
-  6.14- Eğer oda fiyatında bir güncelleme olursa bir trigger booking de ki payment da güncellensin
-  
-oracle için tabloları talend ile açma datamart oluşturma
-  
-7- İndex oluşturma
 
-log tablosu
+  
+oracle için tabloları talend ile açma datamart oluşturma (X)
+  
+7- İndex oluşturma   
+
+  log tablosu
 
   Yedekleme planlı yedekleme oluşturma
-8- Rapor yazma
+  
+  
+8- Rapor yazma (x)
+
+Fonksiyon ve prosedürler tabloları 
+Berfin -> Customer , Booking (X)
+Tuğrul -> 
+Cumhur 
+
+
+
+
+
+
