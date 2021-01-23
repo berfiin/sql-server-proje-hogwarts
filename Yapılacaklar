@@ -1,0 +1,49 @@
+1- Tabloların tasarlaması (X)
+1.1- Senaryo belirleme (X)
+2- Tabloların sql server a aktarılması (X) 
+3- Diagram oluşturulup ilişkilerin yapılması (X)
+4- Veri seti bulma ve temizleme (X)
+5- Tablolara veri ekleme (X)
+6- Fonksiyonların, prosedürlerin ve viewlerin yazılması (X)
+
+  6.1-Müşteri ekleme fonksiyonu -> insert customer -> müşteri silindiğinde onunla ilgili herşeyi silen trigger (Berfin) (X)
+  6.2-Ödeme yap fonksiyonu ->insert payment (Berfin) (X)
+  6.3-Rezervasyon yap stored proc.->insert booking (Berfin) (X)
+
+  
+  6.4-Hatırlatıcı ekle proc. ->insert reminder tarih yaklaşında mail at (Cumhurcan)(X)
+  6.5-> Mail gönder (Cumhurcan) (X)
+  6.6-> Müşteri yaş kontrolü stored proc. (Cumhurcan)
+  
+  6.7- Oda müsaitlik durum kontrolü yapan fonsksiyon (Mehmet) (X)
+  6.8- Makisumum oda kapasitesine ulaşıldığını bildiren fonsksiyon (Mehmet) (X)
+  6.9- Rezervasyon yapacak kişinin TC no kontrolü yapan fonksiyon (Mehmet) (X)
+  
+  6.10- View -> Evcil hayvana izin veren oteller (Tuğrul) (X)
+  6.11- Maaşı 3 k dan fazla olan personelin hangi dept. ve telefonu View (Tuğrul)(X)
+  6.12- En çok rezervasyon yapılan otel ve oda tipi stored proc. (Tuğrul) (X)
+  
+  6.13- En pahalı ve en ucuz otel fonksiyon(X)
+
+  
+oracle için tabloları talend ile açma datamart oluşturma (X)
+  
+7- İndex oluşturma   
+
+  log tablosu
+
+  Yedekleme planlı yedekleme oluşturma(X)
+  
+  
+8- Rapor yazma (x)
+
+Fonksiyon ve prosedürler tabloları 
+Berfin -> Customer , Booking (X)
+Tuğrul -> 
+Cumhur 
+
+
+
+
+
+

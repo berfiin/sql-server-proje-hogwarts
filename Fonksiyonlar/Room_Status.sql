@@ -1,0 +1,4 @@
+ALTER FUNCTION [dbo].[ROOM_STATUS2](@Availabile_ NVARCHAR(15))
+RETURNS TABLE
+AS
+RETURN(SELECT *FROM Booking WHERE NOT EXISTS(SELECT * FROM Room WHERE Availability=@Availabile_ AND Availability IN ('N')))
